@@ -86,11 +86,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Your chosen license]
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/0xJosep/rnmap/blob/main/LICENSE) file for details.
 
-## Author
+## Contact 
 
-@0xJosep
+Youssef Boukhriss - [X (Twitter)](https://x.com/0xJosep) - [LinkedIn](https://www.linkedin.com/in/youssefboukhriss/)
 
 ## Disclaimer
 
